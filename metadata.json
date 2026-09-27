@@ -1,0 +1,7 @@
+{
+  "name": "باصرة مصرية - كوتشينة على أصولها",
+  "description": "لعبة الباصرة المصرية الكلاسيكية الأصلية بأجواء القهوة الشعبية، ذكاء اصطناعي ذكي، أصوات كوتشينة واقعية، وقوانين الأكل والباصرة والكومة الدقيقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
